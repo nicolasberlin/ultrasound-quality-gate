@@ -1,0 +1,9 @@
+{
+  "accept_threshold": 0.7,
+  "enable_explanations": true,
+  "candidate_models": [
+    "dummy_quality_model",
+    "sonoqnet_adapter",
+    "ultrasound_qa_cnn_adapter"
+  ]
+}
